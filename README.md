@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### **Hey there I am DYLAN DREAM **
+### **Hey there I am DYLAN DREAM**
+<p> A python devoloper </p>
+
+<div align="center">
+    <img src="https://te.legra.ph/file/c840a1d6b2a512123508d.jpg">
+</div>
 
 
 

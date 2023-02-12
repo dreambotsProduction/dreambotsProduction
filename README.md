@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 working on **python/html/js/css**
 - 🌱 I’m currently learning html
-- 💬 **JUST A BUDDING DEVOLOPER**
+- 💬 **JUST A FUTURE PYTHON DEVOLOPER/GFX/VFX/ANIMATOR ALSO AN WEB DESIGNER**
 - 📫 contact at dreaminsilence2580@gmail.com 
 - ⚡ Fun fact: Find you own way to learn 
  <h3 align="left">Languages and Tools:</h3>

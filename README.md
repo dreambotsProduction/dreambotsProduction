@@ -45,9 +45,8 @@ Here are some ideas to get you started:
 
 
 
- <p>
+ 
  [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/RealityRulez)
-</p>
 My stats: 
 
 [![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreambotsproduction)](https://github.com/dreambotsproduction/github-readme-stats)

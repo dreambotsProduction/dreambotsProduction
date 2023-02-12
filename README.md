@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 working on **python/html/js/css**
 - 🌱 I’m currently learning html
-- ⚜️ **JUST A FUTURE PYTHON DEVOLOPER**
+- ⚜️ **FUTURE PYTHON DEVOLOPER**
   ⚜️ **GRAPHIC DESIGNER**
   ⚜️ **VFX ARTIST**
   ⚜️ **ANIMATOR**

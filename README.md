@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p> A python devoloper </p>
 
 <div align="center">
-    <img src="https://te.legra.ph/file/c840a1d6b2a512123508d.jpg">
+    <img src="https://te.legra.ph/file/69d210e2c3d2b1c0df1b0.jpg"width="250" height="250">
 </div>
 
 

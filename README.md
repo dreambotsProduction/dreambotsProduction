@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### **Hey there I am DYLAN DREAM**
-<p> An python devoloper </p>
+
 
 <div align="center">
     <img src="https://te.legra.ph/file/69d210e2c3d2b1c0df1b0.jpg"width="250" height="250">

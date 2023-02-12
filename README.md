@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 
 
 
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/RealityRulez)
+
+ 
+ [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/RealityRulez)
 
 My stats: 
 
